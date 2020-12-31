@@ -2,6 +2,12 @@
 #### *this repo will hold my 201 reading notes*
 
 ## Code 201 Reading Notes
+**I'll clone this repo later and add the links for my pages, and here are some basic _Git commands_ :**
+```
+git status
+git add
+git commit
+```
 ### table of content :
  note page | link
  ------------ | -------------
