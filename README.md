@@ -1,5 +1,5 @@
 # reading201notes
-#### *this repo will hold my 201 reading notes*
+#### *this repo will hold my 201 reading notes* :smile:
 
 ## Code 201 Reading Notes
 **I'll clone this repo later and add the links for my pages, and here are some basic _Git commands_ :**
