@@ -18,7 +18,7 @@ git commit
  read3 | [Read03](https://haleemah-163.github.io/reading201notes/class-03) |
  read4 | [Read04](https://haleemah-163.github.io/reading201notes/class-04) |
  read5 | [Read05](https://haleemah-163.github.io/reading201notes/class-05) |
- read6 | [Read06]() |
+ read6 | [Read06](https://haleemah-163.github.io/reading201notes/class-06) |
  read7 | [Read07]() |
  read8 | [Read08]() |
  read9 | [Read09]() |
