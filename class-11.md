@@ -17,8 +17,6 @@
 - Map
 #### Search engine optimization helps visitors find yoursites when using search #### engines.
 #### To put your site on the web, you will need to obtain a domain name and web hosting.
-
-### Video and Audio Article
 #### The <video> and <audio> elements allow us to embed video and audio into web pages.
 ####  As we showed in Video and audio content, a typical implementation looks like this:
 ```
